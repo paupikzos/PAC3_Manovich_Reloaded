@@ -5,11 +5,14 @@
 *2026*
 
 
+## PLantejament
 
 
+## Cas 1:
 
 
+## Cas 2:
 
-## Referencias y Bibliografía
 
-- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+### Referencias y Bibliografía
+* Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
