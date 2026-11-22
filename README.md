@@ -5,7 +5,7 @@
 *2026*
 
 
-## PLantejament
+## Plantejament
 
 
 ## Cas 1:
